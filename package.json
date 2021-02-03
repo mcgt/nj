@@ -1,0 +1,22 @@
+{
+  "name": "nj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcgt/nj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcgt/nj/issues"
+  },
+  "homepage": "https://github.com/mcgt/nj#readme",
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
